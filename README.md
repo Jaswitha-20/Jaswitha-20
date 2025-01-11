@@ -21,16 +21,19 @@ Welcome to my GitHub! I am a motivated data professional passionate about uncove
 ### **1. EasyEvents - iOS Event Planning Application**  
 An iOS app that connects individuals with event planners based on preferences, budget, and interests. Built with Swift and Xcode, incorporating user-friendly features to simplify event planning.  
 
-### **2. Customer Behavior Analysis with PySpark**  
+### **2. Social Engineering Attacks detection using Machine Learning algorithms** 
+Developed an iOS app with real-time threat detection for social engineering attacks, integrating machine learning models like KNN, SVM, and Random Forest via Core ML. Achieved high accuracy and F1-scores using 5-fold cross-validation, with plans for cross-app communication and real-time updates.
+
+### **3. Customer Behavior Analysis with PySpark**  
 Analyzed purchase patterns and segmented customers for targeted marketing. Delivered insights on customer lifetime value (CLTV) and purchase behavior using PySpark and BI tools.  
 
-### **3. Sales Data Analysis**  
+### **4. Sales Data Analysis**  
 Processed and visualized sales data to identify key trends and optimize sales strategies using SQL and Tableau.  
 
-### **4. MapReduce Project - Marital Status and Job Role Analysis**  
+### **5. MapReduce Project - Marital Status and Job Role Analysis**  
 Built a MapReduce pipeline to analyze a tab-separated dataset with demographic and salary details. Delivered insights into marital status and job role distribution.  
 
-### **5. Advanced Data Visualization in Tableau and Power BI**  
+### **6. Advanced Data Visualization in Tableau and Power BI**  
 Developed interactive dashboards and predictive analytics models, utilizing DAX and SQL for deep analysis and actionable insights.  
 
 ---
@@ -44,7 +47,7 @@ Developed interactive dashboards and predictive analytics models, utilizing DAX 
 ## 📚 Education  
 - **Master’s in Applied Computer Science** | Northwest Missouri State University  
   - Key Subjects: Advanced Database Systems, Data Visualization, Patterns, iOS Development, Web Applications, Project Management  
-- **Bachelor’s in Computer Science and Engineering** | India  
+- **Bachelor’s in Computer Science and Engineering** | CMR Engineering College, India  
   - Strong foundation in programming, algorithms, and software development.  
 
 ---
